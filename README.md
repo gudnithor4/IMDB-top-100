@@ -1,7 +1,9 @@
 IMDB-top-100
 ============
 
-Lokaverkefni í vefforritun 2013
+Lokaverkefni í vefforritun 2013 
+
+Verkefni unnið af: Guðni Þór Björnsson & Hjörtur Larsen Þórðarson
 
 Síðan inniheldur lista yfir 100 vinsælustu kvikmyndir IMDB frá október 2013, hægt er að búa til notanda 
 og velja þær myndir sem viðkomandi notandi hefur séð með því að klikka á plaggat þeirrar kvikmyndar. 
@@ -10,3 +12,5 @@ og merkt við einhverjar myndir. Listanum er raðað í minnkandi röð út frá
 við margar myndir.
 
 URL: https://notendur.hi.is/~hth154/Vefforittun/Lokaverkefni/php/
+
+
