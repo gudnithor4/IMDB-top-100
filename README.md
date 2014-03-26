@@ -1,15 +1,11 @@
 IMDB-top-100
 ============
 
-Lokaverkefni í vefforritun 2013 
+Final project in Web development 2013
 
-Verkefni unnið af: Guðni Þór Björnsson & Hjörtur Larsen Þórðarson
+Developers: Guðni Þór Björnsson & Hjörtur Larsen Þórðarson
 
-Síðan inniheldur lista yfir 100 vinsælustu kvikmyndir IMDB frá október 2013, hægt er að búa til notanda 
-og velja þær myndir sem viðkomandi notandi hefur séð með því að klikka á plaggat þeirrar kvikmyndar. 
-Einnig er hægt að fara á undirsíðuna „rank“ sem sýnir lista yfir alla þá notendur sem hafa búið til aðgang 
-og merkt við einhverjar myndir. Listanum er raðað í minnkandi röð út frá því hvað notendur hafa merkt 
-við margar myndir.
+List og IMDB's Top 100 movies in october 2013
 
 URL: https://notendur.hi.is/~hth154/Vefforittun/Lokaverkefni/php/
 
